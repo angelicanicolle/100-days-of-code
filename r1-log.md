@@ -12,11 +12,11 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Julien Baker Tribute Page](https://codepen.io/angelicanicolle/full/YELeep)
 
 ### R1D2: November 23, 2017
-**Today's Progress**: [insert text here]
+**Today's Progress**: Forked the [original #100DaysOfCode repo](https://github.com/Kallaway/100-days-of-code) to create this log for the challenge. Also created an HTML outline for my next project, which is the freeCodeCamp portfolio. I'll be working on the project mostly through Github and publish the final piece to CodePen.
 
-**Thoughts** [insert text here]
+**Thoughts** I've never worked with Markdown before, so I'll definitely be looking into that a little more now that I have this log. It's also weird to be starting all over again on a portfolio project since I was working on something similar about a year ago. But since I forgot most of how to do it, I know it's best to start from scratch and work my way back up.
 
-**Link(s) to work**: [insert text here](insert link here)
+**Link(s) to work**: [freeCodeCamp Portfolio](https://github.com/angelicanicolle/fCC-portfolio/commit/4b6bb1464a37f989f8a6fa55551ad645268deb6a)
 
 
 ### R1D3: November XX, 2017
