@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](https://github.com/angelicanicolle/100-days-of-code/blob/master/log.md)
+* [Log - click here to see my progress](https://github.com/angelicanicolle/100-days-of-code/blob/master/r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
