@@ -43,15 +43,15 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link(s) to resource(s):** [freeCodeCamp](https://www.freecodecamp.org/) | [The Odin Project](https://www.theodinproject.com/) | [Codecademy](https://www.codecademy.com/)
 
 
----
-
-
 ### R1D6: November 27, 2017
-**Today's Progress**: [insert text here]
+**Today's Progress**: Spent a lot of time reading articles today, but also tested out a new study strategy. I also came across a [Command Line tutorial](http://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) that I actually enjoyed.
 
-**Thoughts:** [insert text here]
+**Thoughts:** The new "study strategy" is honestly just the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), but considering the number of resources/subject I'm trying to learn, this method makes sense to implement. The Viking Code School's [Command Line Crash Course](http://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) really made learning the command line fun and not at all daunting like other resources I've tried. I feel like I learned more and will be able to comfortably work in my terminal now.
 
-**Link to work:** [insert text here](insert link here)
+**Link to work:** [Viking Code School - Command Line Crash Course](http://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) | [Tomato Timer](https://tomato-timer.com/)
+
+
+---
 
 
 ### R1D7: November 28, 2017
