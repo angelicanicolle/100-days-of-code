@@ -59,15 +59,15 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Julien Baker Tribute Page](https://codepen.io/angelicanicolle/full/YELeep)
 
 
----
-
-
 ### R1D8: November 29, 2017
-**Today's Progress**: [insert text here]
+**Today's Progress**: Cleaned up tribute project code by removing duplicates and re-organizing CSS. Also wrote a new blog post using markdown.
 
-**Thoughts:** [insert text here]
+**Thoughts:** I'm really liking markdown. I think my next step is gonna be to learn how to create a jekyll site and theme in order to maintain a blog using markdown.
 
-**Link to work:** [insert text here](insert link here)
+**Link to work:** [Julien Baker Tribute Page](https://codepen.io/angelicanicolle/full/YELeep) | [Dev.to Blog Post](https://dev.to/angelicanicolle/hello-world--3k1)
+
+
+---
 
 
 ### R1D9: November 30, 2017
