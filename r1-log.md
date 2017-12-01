@@ -67,15 +67,14 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Julien Baker Tribute Page](https://codepen.io/angelicanicolle/full/YELeep) | [Dev.to Blog Post](https://dev.to/angelicanicolle/hello-world--3k1)
 
 
----
-
-
 ### R1D9: November 30, 2017
-**Today's Progress**: [insert text here]
+**Today's Progress**: Today I spent a couple hours trying to recreate the Google homepage. I still need to go back and get the layout just right, but so far so good.
 
-**Thoughts:** [insert text here]
+**Thoughts:** I've been studying using [The Odin Project](https://www.theodinproject.com/) and I really love the set up. Coding on my own laptop rather than on a setup like Codecademy is really helpful for me to not just rely on a site to spit out the correct answers if I need a hint. I have to make the extra effort to find out what I need, and I'm learning a lot more through this process.
 
-**Link to work:** [insert text here](insert link here)
+**Link to work:** [Google Homepage Repo](https://github.com/angelicanicolle/google-homepage)
+
+---
 
 
 ### R1D10: December XX, 2017
