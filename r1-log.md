@@ -74,10 +74,26 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 
 **Link to work:** [Google Homepage Repo](https://github.com/angelicanicolle/google-homepage)
 
+
+### R1D10: December 1, 2017
+**Today's Progress**: Hacked away at my computer a bunch today. Finally completed the Google homepage project from TOP to the best of my abilities. Also, updated my coding portfolio and launched it via [Netlify](https://www.netlify.com). I attempted to make my [design portfolio](http://angelicanicolle.com) a Jekyll site, but I didn't quite make it work.
+
+**Thoughts:** Jekyll is something that would make my development process way easier, especially with my design portfolio's theme. I am determined to learn that along with Sass so I can speed up my workflow.
+
+**Link to work:** [angelica.codes | portfolio](http://angelica.codes) | [Google Homepage](https://codepen.io/angelicanicolle/pen/ZawemP)
+
+
+### R1D11: December 2, 2017
+**Today's Progress**: Set up my [design portfolio](http://angelicanicolle.com) with [Netlify](https://www.netlify.com) and updated some of it's content. Also started the Javascript portion of TOP. I attempted the [current course material](https://www.theodinproject.com/courses/web-development-101/lessons/javascript-basics?ref=lnav), but struggled with it. I found that the [beta material](https://the-odin-project.gitbooks.io/javascript-curriculum/content/JS101/introduction-101.html) so far is much more thorough and easy to wrap my head around.
+
+**Thoughts:** I'm definitely going to try to take the next wave of learning slowly. I really want to be able to thoroughly understand the language and work with it comfortably.
+
+**Link to work:** [The Odin Project: Javascript | Beta](https://the-odin-project.gitbooks.io/javascript-curriculum/content/JS101/introduction-101.html)
+
 ---
 
 
-### R1D10: December XX, 2017
+### R1Dxx: December XX, 2017
 **Today's Progress**: [insert text here]
 
 **Thoughts:** [insert text here]
