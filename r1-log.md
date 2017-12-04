@@ -90,6 +90,15 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 
 **Link to work:** [The Odin Project: Javascript | Beta](https://the-odin-project.gitbooks.io/javascript-curriculum/content/JS101/introduction-101.html)
 
+
+### R1D12: December 3, 2017
+**Today's Progress**: Spent the day trying to learn Javascript with TOP.
+
+**Thoughts:** I'm trying not to get too frustrated with the fact that I can't easily wrap my head around this language. I tried to look for a few ways to learn JS and found a few sites that gamified this process, so we'll see how that works.
+
+**Link to work:** [CodinGame](https://www.codingame.com) | [CodeCombat](https://codecombat.com)
+
+
 ---
 
 
