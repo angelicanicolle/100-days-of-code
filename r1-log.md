@@ -99,6 +99,14 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [CodinGame](https://www.codingame.com) | [CodeCombat](https://codecombat.com)
 
 
+### R1D12: December 4, 2017
+**Today's Progress**: I took a break from learning JS and decided to learn about creating a Jekyll site. This was mainly to keep me sane after being frustrated these past couple of days, but also because I've wanted to learn how to build a Jekyll site to host a blog for a while now. I stumbled across [this playlist](https://www.youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f), which has been really helpful so far. I'm also learning Sass as I go through these videos since that is what he's using in the tutorial.
+
+**Thoughts:** I really like Sass and want to start incorporating it into my workflow now that I see how easy it is. Also, I'm starting to confirm that definitely more of a learn-while-watching-AND-doing kind of person. Following along with the tutorial videos has taught me more than what I did in the few hours I spent just reading random how-to articles.
+
+**Link to work:** ["How to Build a Website Using Jekyll" Playlist by Zachary R Newton](https://www.youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f)
+
+
 ---
 
 
