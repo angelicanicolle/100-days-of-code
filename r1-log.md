@@ -107,6 +107,22 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** ["How to Build a Website Using Jekyll" Playlist by Zachary R Newton](https://www.youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f)
 
 
+### R1D13: December 4, 2017
+**Today's Progress**: Spent most of the night building a couple mock sites for my portfolio. Attempted to recreate my friend's Squarespace site using Bulma and created a simple parallax-style portfolio template.
+
+**Thoughts:** I'm starting to get more comfortable reading others' code and building my own layouts. Google is my best friend right now haha.
+
+**Link to work:** [Portfolio](http://angelica.codes)
+
+
+### R1D14: December 5, 2017
+**Today's Progress**: Tweaked last night's parallax design and created a version 2 of my portfolio. Also cross linked both of my portfolio sites.
+
+**Thoughts:** I still need to work on making my sites responsive for mobile and tablet devices. There are still a few issues with the burger navs and layouts.
+
+**Link to work:** [angelica.codes](http://angelica.codes) | [angelicanicolle.com](http://angelicanicolle.com)
+
+
 ---
 
 
