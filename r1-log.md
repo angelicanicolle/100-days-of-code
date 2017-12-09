@@ -107,7 +107,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** ["How to Build a Website Using Jekyll" Playlist by Zachary R Newton](https://www.youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f)
 
 
-### R1D13: December 4, 2017
+### R1D13: December 5, 2017
 **Today's Progress**: Spent most of the night building a couple mock sites for my portfolio. Attempted to recreate my friend's Squarespace site using Bulma and created a simple parallax-style portfolio template.
 
 **Thoughts:** I'm starting to get more comfortable reading others' code and building my own layouts. Google is my best friend right now haha.
@@ -115,12 +115,24 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Portfolio](http://angelica.codes)
 
 
-### R1D14: December 5, 2017
+### R1D14: December 6, 2017
 **Today's Progress**: Tweaked last night's parallax design and created a version 2 of my portfolio. Also cross linked both of my portfolio sites.
 
 **Thoughts:** I still need to work on making my sites responsive for mobile and tablet devices. There are still a few issues with the burger navs and layouts.
 
 **Link to work:** [angelica.codes](http://angelica.codes) | [angelicanicolle.com](http://angelicanicolle.com)
+
+
+### R1D15: December 7, 2017
+**Today's Progress**: N/A - skipped today
+
+
+### R1D16: December 8, 2017
+**Today's Progress**: After getting multiple recommendations on Twitter, I decided to start the Watch and Code Practical JavaScript course.
+
+**Thoughts:** I haven't gone through that many videos, but so far I like how Gordon teaches and I hope this can ease me into learning the language better than previous attempts.
+
+**Link to work:** [Watch and Code | Practical JavaScript](https://watchandcode.com)
 
 
 ---
