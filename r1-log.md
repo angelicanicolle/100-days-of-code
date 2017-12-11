@@ -135,6 +135,17 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Watch and Code | Practical JavaScript](https://watchandcode.com)
 
 
+### R1D16: December 9, 2017
+**Today's Progress**: N/A - skipped today
+
+
+### R1D17: December 10, 2017
+**Today's Progress**: Continued the Watch and Code Practical JavaScript course.
+
+**Thoughts:** Gordon's metaphors are so simple to understand. I love how he compared JS functions to making sandwiches.
+
+**Link to work:** [Watch and Code | Practical JavaScript](https://watchandcode.com)
+
 ---
 
 
