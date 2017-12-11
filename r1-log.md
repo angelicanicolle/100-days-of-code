@@ -99,7 +99,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [CodinGame](https://www.codingame.com) | [CodeCombat](https://codecombat.com)
 
 
-### R1D12: December 4, 2017
+### R1D13: December 4, 2017
 **Today's Progress**: I took a break from learning JS and decided to learn about creating a Jekyll site. This was mainly to keep me sane after being frustrated these past couple of days, but also because I've wanted to learn how to build a Jekyll site to host a blog for a while now. I stumbled across [this playlist](https://www.youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f), which has been really helpful so far. I'm also learning Sass as I go through these videos since that is what he's using in the tutorial.
 
 **Thoughts:** I really like Sass and want to start incorporating it into my workflow now that I see how easy it is. Also, I'm starting to confirm that definitely more of a learn-while-watching-AND-doing kind of person. Following along with the tutorial videos has taught me more than what I did in the few hours I spent just reading random how-to articles.
@@ -107,7 +107,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** ["How to Build a Website Using Jekyll" Playlist by Zachary R Newton](https://www.youtube.com/playlist?list=PLygcmZoi1k1BbL2G0xc0pHJQTT1VtIo4f)
 
 
-### R1D13: December 5, 2017
+### R1D14: December 5, 2017
 **Today's Progress**: Spent most of the night building a couple mock sites for my portfolio. Attempted to recreate my friend's Squarespace site using Bulma and created a simple parallax-style portfolio template.
 
 **Thoughts:** I'm starting to get more comfortable reading others' code and building my own layouts. Google is my best friend right now haha.
@@ -115,7 +115,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Portfolio](http://angelica.codes)
 
 
-### R1D14: December 6, 2017
+### R1D15: December 6, 2017
 **Today's Progress**: Tweaked last night's parallax design and created a version 2 of my portfolio. Also cross linked both of my portfolio sites.
 
 **Thoughts:** I still need to work on making my sites responsive for mobile and tablet devices. There are still a few issues with the burger navs and layouts.
@@ -123,11 +123,11 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [angelica.codes](http://angelica.codes) | [angelicanicolle.com](http://angelicanicolle.com)
 
 
-### R1D15: December 7, 2017
+### R1D16: December 7, 2017
 **Today's Progress**: N/A - skipped today
 
 
-### R1D16: December 8, 2017
+### R1D17: December 8, 2017
 **Today's Progress**: After getting multiple recommendations on Twitter, I decided to start the Watch and Code Practical JavaScript course.
 
 **Thoughts:** I haven't gone through that many videos, but so far I like how Gordon teaches and I hope this can ease me into learning the language better than previous attempts.
@@ -135,16 +135,35 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, November 22, 2017
 **Link to work:** [Watch and Code | Practical JavaScript](https://watchandcode.com)
 
 
-### R1D16: December 9, 2017
+### R1D18: December 9, 2017
 **Today's Progress**: N/A - skipped today
 
 
-### R1D17: December 10, 2017
+### R1D19: December 10, 2017
 **Today's Progress**: Continued the Watch and Code Practical JavaScript course.
 
 **Thoughts:** Gordon's metaphors are so simple to understand. I love how he compared JS functions to making sandwiches.
 
 **Link to work:** [Watch and Code | Practical JavaScript](https://watchandcode.com)
+
+
+### R1D20: December 11, 2017
+
+
+### R1D21: December 12, 2017
+
+
+### R1D22: December 13, 2017
+
+
+### R1D23: December 14, 2017
+
+
+### R1D24: December 15, 2017
+
+
+### R1D25: December 16, 2017
+
 
 ---
 
